@@ -71,6 +71,9 @@
 
 <img width="466" alt="image" src="https://user-images.githubusercontent.com/102296551/170401463-82984bb1-0809-4a39-a710-513511c102ce.png">
 
+
+
+
 ```
 2차원 배열을 선언하고, 변수 sum1,2와 avg1,2를 선언하였습니다. sum에는 총점을 계산하여 넣어주고, 
 avg는 총점/3의 값을 넣어주어서 화면에 출력하는 코드를 작성하였습니다.
