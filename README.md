@@ -17,3 +17,14 @@ jsp는 HTML 코드에 java코드를 넣어 동적웹페이지를 생성하는 �
 |java.sql|sql 관련 기능을 제공합니다.|
 |java.time|날짜와 관련된 기능을 제공합니다.|
 
+
+
+# 예시 첫번째
+
+
+> 코드
+
+<img width="473" alt="image" src="https://user-images.githubusercontent.com/102296551/170400292-63ef2985-7b7d-4638-b734-ebb96a8aa964.png">
+
+# 예시 두번째
+
