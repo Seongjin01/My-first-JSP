@@ -47,5 +47,32 @@
 
 <img width="573" alt="image" src="https://user-images.githubusercontent.com/102296551/170401247-3a0a3318-1082-4983-88bc-4971a76eb876.png">
 
+# 예시 4번째
+
+
+> **코드**
+
+<img width="466" alt="image" src="https://user-images.githubusercontent.com/102296551/170401463-82984bb1-0809-4a39-a710-513511c102ce.png">
+
+# 예시 4-1번째
+
+
+> **코드**
+
+<img width="685" alt="image" src="https://user-images.githubusercontent.com/102296551/170401590-44caa35a-e518-4da0-9689-c4dab063cde8.png">
+
+# 예시 5번째
+
+> **코드**
+
+<img width="713" alt="image" src="https://user-images.githubusercontent.com/102296551/170401817-d3c4c34a-240e-43d2-a3b4-81fe5fbb8075.png">
+<img width="539" alt="image" src="https://user-images.githubusercontent.com/102296551/170401845-237a4865-d2c2-4647-af16-c2069a3b8dc2.png">
+
+# 예시 6번째
+
+<img width="469" alt="image" src="https://user-images.githubusercontent.com/102296551/170401889-5ef7835d-94b2-4636-aff0-f289e1b8ddc6.png">
+
+
+
 
 
