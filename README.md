@@ -70,6 +70,9 @@
 
 # 예시 6번째
 
+
+> **코드**
+
 <img width="469" alt="image" src="https://user-images.githubusercontent.com/102296551/170401889-5ef7835d-94b2-4636-aff0-f289e1b8ddc6.png">
 
 
